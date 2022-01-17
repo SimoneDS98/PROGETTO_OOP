@@ -1,4 +1,4 @@
-package PROGETTO_OOP;
+package EVENTSDETAILS;
 
 import org.json.JSONObject;
 import org.json.JSONArray;
@@ -41,4 +41,5 @@ public JSONObject getEvents(String events) {
 		
 		return obj;
 	
+  }
 }

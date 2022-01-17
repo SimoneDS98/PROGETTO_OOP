@@ -1,13 +1,13 @@
-package PROGETTO_OOP;
+package EVENTSDETAILS;
 
-public class End{
+public class Start{
 	
 	private String localDate;
 	private String dataTime;
 	
-	public End (String localDate, String dataTime)
+	public Start (String localDate, String dataTime)
 	{
 		this.localDate=localDate;
 		this.dataTime=dataTime;
-   }
+	}
 }

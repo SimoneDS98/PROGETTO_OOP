@@ -1,4 +1,4 @@
-package PROGETTO_OOP;
+package EVENTSDETAILS;
 
 public class Status{
 	

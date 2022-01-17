@@ -1,5 +1,5 @@
 
-              package PROGETTO_OOP;
+              package EVENTSDETAILS;
               import org.springframework.boot.SpringApplication;
               import org.springframework.boot.autoconfigure.SpringBootApplication;
               import org.springframework.web.bind.annotation.GetMapping;
